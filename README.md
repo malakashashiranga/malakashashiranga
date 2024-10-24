@@ -75,6 +75,9 @@ Feel free to reach out if you have any questions or collaboration ideas!
   <a href="https://www.linkedin.com/in/malaka-shashiranga-44997b2b1">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://medium.com/@malakashashiranga115">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
 </p>
 
 Thanks for visiting my profile! 😊
