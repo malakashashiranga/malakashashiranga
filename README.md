@@ -58,9 +58,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malakashashiranga&layout=compact&theme=radical)
 
-## 🔥 Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=malakashashiranga&theme=dark)
 
 ## 🏆 GitHub Trophy
 
